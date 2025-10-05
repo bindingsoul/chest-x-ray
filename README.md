@@ -1,6 +1,6 @@
 # **Pneumonia Detection from Chest X-Ray Images** 
 
-## **Name: Saurabh Pandey 25565008**
+##**
 
 ## **Project Overview**
 
